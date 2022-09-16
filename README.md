@@ -1,9 +1,9 @@
 # Update<br/>
 Tester_KemGU.exe<br/>
-13.09.2022<br/>
-10:02:59<br/>
-DEBUG<br/>
+16.09.2022<br/>
+16:37:15<br/>
+RELEASE<br/>
 1<br/>
 0<br/>
-8291<br/>
-35881<br/>
+8294<br/>
+59764<br/>
